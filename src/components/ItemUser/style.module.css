@@ -1,0 +1,30 @@
+.container{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  tr, td {
+    padding: 8px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+
+  tr:hover {
+    background-color: coral;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} 

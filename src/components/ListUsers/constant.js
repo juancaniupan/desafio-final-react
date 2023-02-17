@@ -1,0 +1,1 @@
+export const USUARIOS = ["Juan", "Pedro", "Vicente", "Gato"];
